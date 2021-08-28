@@ -4,5 +4,11 @@
     "workbench.editor.enablePreview": true,
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor"
-    }
+    },
+    "terminal.integrated.profiles.windows": {
+          "bash": {
+            "path": "/bin/bash"
+          }
+        },
+        "terminal.integrated.defaultProfile.windows": "bash"
 }
